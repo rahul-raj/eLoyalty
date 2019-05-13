@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">eInfluencer</string>
+    <string name="trip_confirmation">Thank you! Your trip is booked.</string>
+    <string name="itinerary_info">Expedia Itinerary Number: 2705830xxxxx</string>
+    <string name="booking_summary">&#8226; You will receive a confirmation email shortly at <b>xyz@gmail.com \n \n</b>
+        &#8226; You will earn <b>abc</b> reward points when this trip is complete. Check your <b>reward status.</b> \n \n
+        &#8226; The airline may charge <b>additional fees</b> for checked baggage or other optional services.
+    </string>
+    <string name="itinerary_button_text">View My Itinerary</string>
+</resources>
