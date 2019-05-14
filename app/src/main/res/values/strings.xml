@@ -7,5 +7,10 @@
         &#8226; The airline may charge <b>additional fees</b> for checked baggage or other optional services.
     </string>
     <string name="itinerary_button_text">View My Itinerary</string>
-     <string name="social_influencer_promo">Share your travel moments with the world and win big time!</string>
+    <string name="social_influencer_promo">Share your travel moments with the world and win big time!</string>
+    <string name="Itin1">Bengaluru to Bangkok</string>
+    <string name="Itin2">Bengaluru to Singapore</string>
+    <string name="trip1_summary">New York City to Austin Trip</string>
+    <string name="trip2_summary">Cincinnatti  to Los Angeles Trip</string>
+    <string name="itinsummary">My Itinerary Summary</string>
 </resources>
