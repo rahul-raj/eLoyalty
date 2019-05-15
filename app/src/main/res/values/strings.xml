@@ -13,4 +13,38 @@
     <string name="trip1_summary">New York City to Austin Trip</string>
     <string name="trip2_summary">Cincinnatti  to Los Angeles Trip</string>
     <string name="itinsummary">My Itinerary Summary</string>
+    <string name="itin1header"> Next Up: San Fransisco, CA, July 2018</string>
+    <string name="itin1date">24th July , Monday 2018</string>
+    <string name="itin1status">Scheduled</string>
+    <string name="itin1travelsrcdest">SFO to BOS</string>
+    <string name="itin1airlines">Southwest Airlines 987</string>
+    <string name="itincommonDepart">Depart</string>
+    <string name="itincommonDepartAns">11:45a.m EST</string>
+    <string name="itincommonArrival">Arrival</string>
+    <string name="itincommonArrivalAns">7:45p.m EST</string>
+    <string name="itincommonDuration">Duration</string>
+    <string name="itincommonDurationAns">7 hrs</string>
+    <string name="itincommonConfirmation">Confirmation</string>
+    <string name="itincommonConfirmationAns">270583012345</string>
+    <string name="itincommonTerminal">Terminal</string>
+    <string name="itincommonTerminalAns">--/--</string>
+    <string name="itincommonSeat">Seat</string>
+    <string name="itincommonSeatAns">9D</string>
+    <string name="itincommonConnectsTo">ConnectsTo</string>
+    <string name="itincommonConnectsToAns">JFK</string>
+    <string name="itincommonLayOver">LayOver</string>
+    <string name="itincommonLayOverAns">1 hrs</string>
+    <string name="marketing_text">
+        Share your travel moments with the world and enjoy exclusive offers. \n \n
+        &#x2713; Earn loyalty points \n \n
+        &#x2713; Exclusive offers sent to your email in person \n \n
+        &#x2713; Your travel moments may gets featured in Expedia channels! \n \n
+        &#x2713; Exclusive partnership with social influencers!
+
+
+
+
+
+    </string>
+
 </resources>
