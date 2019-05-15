@@ -19,6 +19,7 @@
         <activity android:name=".ItineraryDashBoardActivity">
 
         </activity>
+        <activity android:name=".SocialInfluencerSignUpActivity"></activity>
     </application>
 
 </manifest>
